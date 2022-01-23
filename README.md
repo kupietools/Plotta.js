@@ -1,3 +1,7 @@
+<p>`Plotta.js-stockOptionsExtentions` adds functions to the test data file in the Plotta.js repo, tailored to charting the profit/loss graph of financial options spreads. </p>
+
+<p>Original README follows:</p>
+
 <p align="left"><img src="./img/plottajs_logo.png" width="80%"/></a></p>
 
 ![npm version](https://img.shields.io/npm/v/plotta.js.svg) ![license](https://img.shields.io/npm/l/plotta.js.svg)
@@ -5,9 +9,6 @@
 
 `Plotta.js` is a Open Source JavaScript library that plot mathematical functions And Datas.
 `Plotta.js` Renders using an HTML5 Canvas.
-
-`Plotta.js-stockOptionsExtentions` adds functions to the test data file tailored to charting the profit/loss graph of financial options spreads. 
-
 
 <p align="left"><img src="./img/plotta_demo1.gif" /></a></p>
 
