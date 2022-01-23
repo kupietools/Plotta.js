@@ -71,5 +71,8 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
+  },
+  "dependencies": {
+    "jshint": "^2.13.3"
   }
 }
