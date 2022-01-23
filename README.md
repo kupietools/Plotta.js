@@ -6,6 +6,9 @@
 `Plotta.js` is a Open Source JavaScript library that plot mathematical functions And Datas.
 `Plotta.js` Renders using an HTML5 Canvas.
 
+`Plotta.js-stockOptionsExtentions` adds functions to the test data file tailored to charting the profit/loss graph of financial options spreads. 
+
+
 <p align="left"><img src="./img/plotta_demo1.gif" /></a></p>
 
 ## Features
