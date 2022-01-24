@@ -1,4 +1,4 @@
-<b> NOPE, NOPE, NOPE! I started building this to graph options for a trading project, but Plotta.js is too unfinished to use. I spent several hours just trying to figure out how to hide the legend and title, because the 'visible' properties don't work yet, and finally realized my time could be better spent looking for a working package to build to than trying to fix the unfinished features of this one myself.
+<b> NOPE, NOPE, NOPE! I started building this to graph options for a trading project, but Plotta.js is too unfinished to use. I spent several hours just trying to figure out how to hide the legend and title, because the 'visible' properties don't work yet, and finally realized my time could be better spent looking for a working package to build on than trying to fix the unfinished features of this one myself.
   
 You can use what you find in this repo, some of the functions work, but I won't be working on, supporting, or paying any attention to it at all. </b>
 
