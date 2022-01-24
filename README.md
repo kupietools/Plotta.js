@@ -1,6 +1,6 @@
-: NOPE, NOPE, NOPE! I started building this to graph options for a project, but Plotta.js is too unfinished to use.  I realized my time could be better spent trying to find a working package to build than trying to fix the unfinished features this one. 
+<b> NOPE, NOPE, NOPE! I started building this to graph options for a project, but Plotta.js is too unfinished to use.  I realized my time could be better spent trying to find a working package to build than trying to fix the unfinished features this one. 
 
-: You can use what you find in this repo but I won't be working on, supporting, or paying any attention to it at all. 
+You can use what you find in this repo but I won't be working on, supporting, or paying any attention to it at all. </b>
 
 <!-- p>`Plotta.js-stockOptionsExtentions` adds functions to the test data file in the Plotta.js repo, tailored to charting the profit/loss graph of financial options spreads. </p -->
 
